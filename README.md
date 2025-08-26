@@ -25,7 +25,6 @@ graph LR
     ICS --> Echarpe[Espectrógrafo Echarpe]
     Weather --> GUI
 
-
 A GUI é o ponto de interação do usuário, enquanto procedimentos automáticos (fechamento da cúpula, guiagem sideral) funcionam independentemente.
 
 ## ⚙️ Requisitos
